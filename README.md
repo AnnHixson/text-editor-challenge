@@ -19,7 +19,7 @@ To run the program:
 
 ## Usage
 
-Upon navigating to the webpage, the user will see the text editor. There is an option to install the application on the user's desktop. The user can edit their text in the space provided as they see fit, and it will be saved to the database. When they reload, or close and reopen the app, the text from the databasse will appear in the editor.
+Upon navigating to the webpage, the user will see the text editor. There is an option to install the application on the user's desktop. The user can edit their text in the space provided as they see fit, and it will be saved to the database. When they reload, or close and reopen the app, the text from the database will appear in the editor.
 
 Here is a screenshot of the application:
 
